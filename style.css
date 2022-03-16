@@ -1,0 +1,19 @@
+main {
+    width: 100vw;
+    height: 100vh;
+}
+
+.container {
+    width: 600px;
+    height: 370px;
+    background-color: #abe9dd;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+    border-radius: 60px;
+}
+
+.container img {
+    margin-top: -20px;
+}
